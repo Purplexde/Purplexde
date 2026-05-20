@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
 
 
@@ -12,3 +13,9 @@ Full-stack developer
 
 
 @purplexde on Discord
+
+
+
+<p align="center">
+	<img src="90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" alt="Project Image" width="400"/>
+</p>
