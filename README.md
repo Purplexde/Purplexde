@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
+
 super awesome cool readme for super cool and awesome people.ect
 
 Full-stack developer
