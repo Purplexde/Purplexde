@@ -1,4 +1,4 @@
-super awesome cool readme for super cool and awesome people 
+super awesome cool readme for super cool and awesome people.ect
 
 Full-stack developer
 
